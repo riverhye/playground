@@ -1,0 +1,10 @@
+{
+  "name": "typescript-modules-practice",
+  "private": true,
+  "scripts": {
+    "check": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
